@@ -2,8 +2,8 @@
 
 
 **About me:** <br/>
-🤝 My name is Hamida Sharifova, I am a Full Stack Web Developer currently attending Bloom Tech institute. 
-I am planning to finish the program in May 2022 where I have learned skills in HTML, CSS, JavaScript, React, Node.js, and computer science basics of data structures and algorithms. 
+🤝 My name is Hamida Sharifova, I am a Full Stack Web Developer graduated from Bloom Tech Institute in May, 2022. 
+I am proficient in HTML, CSS, JavaScript, React, Node.js, and computer science basics of data structures and algorithms. 
 
 **Contacts:** <br/>
 ✉️ sharifovahamida@gmail.com <br/>
